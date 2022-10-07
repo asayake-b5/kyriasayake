@@ -14,7 +14,7 @@
 #define OM_EQL  KC_8    // =
 #define OM_LPRN KC_9    // (
 #define OM_RPRN KC_0    // )
-#define OM_AT   KC_6    // @
+#define OM_AT   KC_MINS // @
 #define OM_HASH KC_EQL  // #
 
 #define OM_AGRV KC_Q    // À
