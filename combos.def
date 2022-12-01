@@ -1,0 +1,39 @@
+COMB(leftbr    ,  US_LBRC     ,                US_W, US_F)
+COMB(rbr       ,  US_RBRC     ,                US_F, US_P)
+
+
+COMB(dollar    ,  US_DLR      ,                US_P, US_T)
+COMB(colon     ,  US_COLN     ,                US_N, US_E)
+COMB(at        ,  US_AT       ,                US_W, US_R)
+COMB(hash      ,  US_HASH     ,                US_F, US_S)
+COMB(percent   ,  US_PERC     ,                US_B, US_G)
+
+COMB(minus     ,  US_MINS     ,                US_R, US_S)
+COMB(equal     ,  US_EQL      ,                US_S, US_T)
+COMB(plus      ,  US_PLUS     ,                US_T, US_G)
+
+COMB(grv       ,  US_DGRV     ,                US_S, US_C)
+COMB(tile      ,  US_DTIL     ,                US_T, US_D)
+
+COMB(lcb       ,  US_LCBR     ,                US_X, US_C)
+COMB(rcb       ,  US_RCBR     ,                US_C, US_D)
+
+
+COMB(underscore,  US_UNDS     ,                US_T, US_C)
+
+
+
+COMB(lprn      ,  US_LPRN     ,                US_L, US_U)
+COMB(rprn      ,  US_RPRN     ,                US_U, US_Y)
+
+
+COMB(dcir      ,  US_DCIR     ,                US_J, US_M)
+COMB(ampr      ,  US_AMPR     ,                US_L, US_N)
+COMB(astr      ,  US_ASTR     ,                US_U, US_E)
+COMB(bslash    ,  US_BSLS     ,                US_Y, US_I)
+
+
+COMB(pipe      ,  US_PIPE     ,                US_M, US_N)
+COMB(exlm      ,  US_EXLM     ,                US_E, US_I)
+
+COMB(ques      ,  US_QUES     ,                US_L, US_E)
